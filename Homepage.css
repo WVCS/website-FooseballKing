@@ -1,1 +1,46 @@
-
+body{
+  background-color:#8CA0D7;
+}
+h1{
+  font-size:380%;
+  letter-spacing:3px;
+  color:#235789;
+  text-decoration: underline;
+  text-decoration-color:#7AE7C7;
+  font-family: "Brush Script MT";
+}
+p{
+  font-size: 200%;
+  color:#DEFFFC;
+}
+img{
+  width:500px;
+  border-style: dashed;
+  border-color:#C3423F;
+}
+iframe{
+  
+}
+h2{
+  color: #DEFFFC
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 10px;
+  color:#801A86;
+  text-decoration:none;
+  font-family: "Brush Script MT";
+  font-size: 25px;
+  border: dashed;
+}
+li a:hover{
+  background-color: #D8315B;
+  color:#FFFAFF;
+}
